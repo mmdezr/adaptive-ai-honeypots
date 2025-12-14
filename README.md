@@ -37,12 +37,13 @@ The solution is composed of four main layers:
 ---
 
 ## Repository Structure
-
-cowrie/ # Cowrie container build and runtime configuration
-elk/ # Filebeat and Logstash pipeline (GeoIP, parsing, enrichment)
-ia/ # Machine learning, adaptation logic and analysis scripts
-scripts/ # Deployment and synchronization utilities
-docs/ # Security, deployment and design documentation
+```
+cowrie/   # Cowrie container build and runtime configuration
+elk/      # Filebeat and Logstash pipeline (GeoIP, parsing, enrichment)
+ia/       # Machine learning, adaptation logic and analysis scripts
+scripts/  # Deployment and synchronization utilities
+docs/     # Security, deployment and design documentation
+```
 
 
 ---
