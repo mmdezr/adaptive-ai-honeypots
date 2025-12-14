@@ -1,4 +1,4 @@
-# Adaptive AI Honeypots for Corporate Networks
+# Adaptive AI Honeypot for Corporate Networks
 
 This project implements an **adaptive honeypot system** designed for corporate-style environments.
 It combines deception technologies (SSH honeypot) with data-driven decision making using
